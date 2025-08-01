@@ -1,4 +1,4 @@
-# packages in environment at anaconda3/envs/powerq:
+# packages in environment at anaconda3/envs/Quam:
 #
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
