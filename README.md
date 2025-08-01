@@ -1,4 +1,4 @@
-# 🔬 Quam: A Cross-Layer Power-Law-Aware Quantization Accelerator for Efficient LLM Inference
+# 🔬 Quam: A Cross-Layer Power-Law-Aware Quantization Accelerator for LLM Inference
 
 This repository contains the source code for **Quam**, a cross-layer quantization framework and accelerator design for efficient large language model (LLM) inference.
 
@@ -68,3 +68,4 @@ Due to the double-blind review process, we are unable to disclose author informa
 This code is provided solely for the purpose of academic peer review.
 Redistribution, commercial use, and modification are **not permitted** during the review process.
 A full license will be published upon paper acceptance.
+
